@@ -17,7 +17,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 ### Control Structures
 
 - Implement a C program that checks if a given number is even or odd and prints the result.
-- **_(Unsolved_)** Write a C program that uses a switch statement to display the name of a day based on the user's input (1 for Sunday, 2 for Monday, etc.).
+- **_(Unsolved_)** Write a C program that uses a `switch` statement to display the name of a day based on the user's input (1 for Sunday, 2 for Monday, etc.).
 
 ## Arrays
 
@@ -51,7 +51,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 - Write a C function to check if a given number is prime or not.
 
-- **_(Unsolved_)** Implement a C function called mergeArrays that takes two arrays of integers and their sizes as parameters. Merge the arrays into a new array and return the result.
+- **_(Unsolved_)** Implement a C function called `mergeArrays` that takes two arrays of integers and their sizes as parameters. Merge the arrays into a new array and return the result.
 
 ### Function Overloading
 
