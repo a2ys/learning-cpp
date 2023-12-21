@@ -1,6 +1,6 @@
 # C/C++ Questions
 
-Syntax is the same in C and C++ unless in specific scenarios such as Object-Oriented Programming, or Function Overloading.
+Syntax is the same in C and C++ unless in specific scenarios such as Header Files, Function Overloading, or Object-Oriented Programming.
 
 ## Fundamentals
 
