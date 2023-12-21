@@ -1,6 +1,8 @@
 # C/C++ Questions
 
-Syntax is the same in C and C++ unless in specific scenarios such as Header Files, Function Overloading, or Object-Oriented Programming.
+This is the repository where I track what I learn in C++. Syntax is the same in C and C++ unless in specific scenarios such as Header Files, Function Overloading, or Object-Oriented Programming.
+
+> Some questions remain untouched because I can't understand how to solve them at my current level. If you know how to solve them in a beginner-friendly way, please lend a helping hand. Your contributions will help a lot of people.
 
 ## Fundamentals
 
