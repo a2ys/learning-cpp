@@ -17,7 +17,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 ### Control Structures
 
 - Implement a C program that checks if a given number is even or odd and prints the result.
-- **_(Unsolved_)** Write a C program that uses a `switch` statement to display the name of a day based on the user's input (1 for Sunday, 2 for Monday, etc.).
+- Write a C program that uses a `switch` statement to display the name of a day based on the user's input (1 for Sunday, 2 for Monday, etc.).
 
 ## Arrays
 
