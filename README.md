@@ -65,15 +65,15 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Declaration
 
-- **_(Unsolved_)** Declare an integer variable num and a pointer ptr to an integer. Initialize ptr to point to the address of num. Change the value of num through the pointer to 42.
+- Declare an integer variable num and a pointer ptr to an integer. Initialize ptr to point to the address of num. Change the value of num through the pointer to 42.
 
 ### Swapping
 
-- **_(Unsolved_)** Write a C function called swap that takes two integer pointers as parameters and swaps the values they point to.
+- Write a C function called swap that takes two integer pointers as parameters and swaps the values they point to.
 
 ### Array Traversal
 
-- **_(Unsolved_)** Declare an array of integers and a pointer to the array. Use pointer arithmetic to print the elements of the array in reverse order.
+- Declare an array of integers and a pointer to the array. Use pointer arithmetic to print the elements of the array in reverse order.
 
 ## Challenges
 
