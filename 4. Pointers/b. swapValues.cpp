@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void swapPointers(int *ptr1, int *ptr2) {
+void swap(int *ptr1, int *ptr2) {
     int temp = *ptr1;
     *ptr1 = *ptr2;
     *ptr2 = temp;
@@ -17,7 +17,7 @@ int main() {
 
     cout << *ptr1 << " " << *ptr2 << endl;
 
-    swapPointers(ptr1, ptr2);
+    swap(ptr1, ptr2);
 
     cout << *ptr1 << " " << *ptr2;
 

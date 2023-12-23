@@ -65,15 +65,21 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Declaration
 
-- Declare an integer variable num and a pointer ptr to an integer. Initialize ptr to point to the address of num. Change the value of num through the pointer to 42.
+- Declare an integer variable `num` and a pointer `ptr` to an integer. Initialize `ptr` to point to the address of `num`. Change the value of `num` through the pointer to `42`.
+- Create a pointer `p` and initialize it to point to the middle element of the array.
+
+### Dynamic Memory Allocation
+
+- Allocate memory dynamically for an array of 10 integers using `malloc` in C or `new` in C++. Free the dynamically allocated memory using `free` in C or `delete` in C++.
 
 ### Swapping
 
-- Write a C function called swap that takes two integer pointers as parameters and swaps the values they point to.
+- Write a C function called `swap` that takes two integer pointers as parameters and swaps the values they point to.
 
 ### Array Traversal
 
 - Declare an array of integers and a pointer to the array. Use pointer arithmetic to print the elements of the array in reverse order.
+- Create a function that accepts a string (character array) and returns the length of the string using pointers.
 
 ## Challenges
 
