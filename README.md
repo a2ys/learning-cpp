@@ -115,7 +115,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Declaration and Initialization of Unions
 
-- **_(Unsolved_)** Declare a union named `Value` with members `integer`, `decimal`, and `character`. Write a program to demonstrate the use of the union to store and print different types of values.
+- Declare a union named `Value` with members `integer`, `decimal`, and `character`. Write a program to demonstrate the use of the union to store and print different types of values.
 
 ### Union with Arrays
 
