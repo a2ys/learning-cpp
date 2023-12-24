@@ -119,7 +119,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Union with Arrays
 
-- **_(Unsolved_)** Extend the `Value` union to include an array of integers. Write a program to initialize and print the values of the union members.
+- Extend the `Value` union to include an array of integers. Write a program to initialize and print the values of the union members.
 
 ### Union in a Structure
 

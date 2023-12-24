@@ -17,7 +17,7 @@ int main()
     Value myValue;
 
     myValue.integer = 42;
-    cout << "Name: " << myValue.integer << endl;
+    cout << "Integer: " << myValue.integer << endl;
 
     myValue.decimal = 3.14;
     cout << "Decimal: " << myValue.decimal << endl;
@@ -28,7 +28,7 @@ int main()
     // The values are stored in the same memory location, so accessing one member will overwrite the others.
     // The following prints may not be meaningful as the union members share the same memory.
 
-    cout << "After setting character, Name: " << myValue.integer << endl;
+    cout << "After setting character, Integer: " << myValue.integer << endl;
     cout << "After setting character, Decimal: " << myValue.decimal << endl;
 
     // Now the explanation for these absurd values as I understood them.
@@ -51,7 +51,8 @@ int main()
     // whatever it interpreted as the character value for the given double value, specifically
     // what ASCII value corresponds to the integer value interpreted from the double value.
 
-    // This part may require a bit of in-depth knowledge of pointers.
+    // This part may require a bit of in-depth knowledge of pointers. You'll get a clear view of this
+    // in the next program.
 
     // Now if there were an array of integers in the union as well (note the data type),
     // and it was the last assigned value for the union variable, the values will give
