@@ -85,23 +85,23 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Declaration and Initialization of Structures
 
-- **_(Unsolved_)** Declare a structure named `Book` with members `title`, `author`, and `price`. Create and initialize a structure variable for a book of your choice.
+- Declare a structure named `Book` with members `title`, `author`, and `price`. Create and initialize a structure variable for a book of your choice.
 
 ### Access of Structure Variables
 
-- **_(Unsolved_)** Create a structure named `Date` with members `day`, `month`, and `year`. Write a function to print the date in the format "dd-mm-yyyy."
+- Create a structure named `Date` with members `day`, `month`, and `year`. Write a function to print the date in the format "dd-mm-yyyy."
 
 ### Arrays of Structure
 
-- **_(Unsolved_)** Declare a structure named `Student` with members `name`, `rollNumber`, and `marks`. Create an array of structures to store information for five students.
+- Declare a structure named `Student` with members `name`, `rollNumber`, and `marks`. Create an array of structures to store information for five students.
 
 ### Arrays within Structure
 
-- **_(Unsolved_)** Extend the Student structure to include an array of grades for each student. Initialize the grades for a couple of students.
+- Extend the `Student` structure to include an array of grades for each student. Initialize the grades for a couple of students.
 
 ### Structure within Structures
 
-- **_(Unsolved_)** Declare a structure named `Department` with members `name` and `location`. Include this structure as a member of the `College` structure, which also has members for `name` and `yearEstablished`.
+- Declare a structure named `Department` with members `name` and `location`. Include this structure as a member of the `College` structure, which also has members for `name` and `yearEstablished`.
 
 ### Structures and Functions
 
@@ -109,7 +109,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Pointers to Structure
 
-- **_(Unsolved_)** Write a program that uses a pointer to a structure to dynamically allocate memory for a single `Person` structure. Allow the user to input the person's details.
+- Write a program that uses a pointer to a structure to dynamically allocate memory for a single `Person` structure. Allow the user to input the person's details.
 
 ## Unions
 
