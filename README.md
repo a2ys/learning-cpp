@@ -81,6 +81,50 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 - Declare an array of integers and a pointer to the array. Use pointer arithmetic to print the elements of the array in reverse order.
 - Create a function that accepts a string (character array) and returns the length of the string using pointers.
 
+## Structures
+
+### Declaration and Initialization of
+
+- **_(Unsolved_)** Declare a structure named `Book` with members `title`, `author`, and `price`. Create and initialize a structure variable for a book of your choice.
+
+### Access of Structure Variables
+
+- **_(Unsolved_)** Create a structure named `Date` with members `day`, `month`, and `year`. Write a function to print the date in the format "dd-mm-yyyy."
+
+### Arrays of Structure
+
+- **_(Unsolved_)** Declare a structure named `Student` with members `name`, `rollNumber`, and `marks`. Create an array of structures to store information for five students.
+
+### Arrays within Structure
+
+- **_(Unsolved_)** Extend the Student structure to include an array of grades for each student. Initialize the grades for a couple of students.
+
+### Structure within Structures
+
+- **_(Unsolved_)** Declare a structure named `Department` with members `name` and `location`. Include this structure as a member of the `College` structure, which also has members for `name` and `yearEstablished`.
+
+### Structures and Functions
+
+- **_(Unsolved_)** Write a function that accepts an array of `Book` structures and prints the details of the book with the highest price.
+
+### Pointers to Structure
+
+- **_(Unsolved_)** Write a program that uses a pointer to a structure to dynamically allocate memory for a single `Person` structure. Allow the user to input the person's details.
+
+## Unions
+
+### Declaration and Initialization of Unions
+
+- **_(Unsolved_)** Declare a union named `Value` with members `integer`, `decimal`, and `character`. Write a program to demonstrate the use of the union to store and print different types of values.
+
+### Union with Arrays
+
+- **_(Unsolved_)** Extend the `Value` union to include an array of integers. Write a program to initialize and print the values of the union members.
+
+### Union in a Structure
+
+- **_(Unsolved_)** Create a structure named `Employee` with members `name` and a union named `Salary` containing members for `monthlySalary` (float) and `hourlyRate` (float). The structure should indicate whether the salary is monthly or hourly.
+
 ## Challenges
 
 - Write a C program that generates the Fibonacci sequence up to the 10th term using a loop.
