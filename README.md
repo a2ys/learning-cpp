@@ -123,7 +123,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ### Union in a Structure
 
-- **_(Unsolved_)** Create a structure named `Employee` with members `name` and a union named `Salary` containing members for `monthlySalary` (float) and `hourlyRate` (float). The structure should indicate whether the salary is monthly or hourly.
+- Create a structure named `Employee` with members `name` and a union named `Salary` containing members for `monthlySalary` (float) and `hourlyRate` (float). The structure should indicate whether the salary is monthly or hourly.
 
 ## Challenges
 
