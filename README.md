@@ -83,7 +83,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 ## Structures
 
-### Declaration and Initialization of
+### Declaration and Initialization of Structures
 
 - **_(Unsolved_)** Declare a structure named `Book` with members `title`, `author`, and `price`. Create and initialize a structure variable for a book of your choice.
 
