@@ -18,6 +18,7 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 
 - Implement a C program that checks if a given number is even or odd and prints the result.
 - Write a C program that uses a `switch` statement to display the name of a day based on the user's input (1 for Sunday, 2 for Monday, etc.).
+- Write a C program that generates the Fibonacci sequence up to the 10th term using a loop.
 
 ## Arrays
 
@@ -126,8 +127,6 @@ This is the repository where I track what I learn in C++. Syntax is the same in 
 - Create a structure named `Employee` with members `name` and a union named `Salary` containing members for `monthlySalary` (float) and `hourlyRate` (float). The structure should indicate whether the salary is monthly or hourly.
 
 ## Challenges
-
-- Write a C program that generates the Fibonacci sequence up to the 10th term using a loop.
 
 - **_(Unsolved_)** Modify the `calculateAverage` function from a previous example to also return the sum of the elements. Update the main function to print both average and sum.
 
