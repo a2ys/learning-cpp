@@ -1,6 +1,7 @@
 .vscode/
 hello.cpp
 pointers.cpp
+cprogramming.c
 
 # Prerequisites
 *.d
